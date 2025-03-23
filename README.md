@@ -1,6 +1,6 @@
 Overview
 
-The Myntra Clone is a functional, responsive e-commerce website built using HTML, CSS, and JavaScript. It replicates essential features of the Myntra platform, offering a seamless shopping experience with dynamic product displays, search functionality, and a cart system
+The Myntra Clone is a functional, responsive e-commerce website built using HTML, CSS, and JavaScript. It replicates essential features of the Myntra platform, offering a seamless shopping experience with dynamic product displays, search functionality, and a cart system.
 
 
 Features
